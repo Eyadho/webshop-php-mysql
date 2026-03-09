@@ -97,7 +97,7 @@ order_items
 ## 📁 Project Structure
 
 ```
-klasses-webshop/
+webshop-php-mysql/
 ├── src/
 │   ├── index.php          # Product listing
 │   ├── cart.php           # Shopping cart (session-based)
@@ -152,7 +152,7 @@ docker-compose up -d
 
 ## 📋 Assignment Requirements
 
-Built as part of the **Webbutveckling** course at GRIT Academy.
+Built as part of the **Webbutveckling** course.
 
 | Requirement | Status |
 |---|---|
