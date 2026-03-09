@@ -6,8 +6,6 @@ A full-stack webshop built with **PHP** and **MySQL**, containerized with **Dock
 
 ## 📸 Preview
 
-> _Add screenshots here — drag and drop images into the repo_
-
 | Shop | Cart | Admin |
 |---|---|---|
 | ![shop](screenshots/shop.png) | ![cart](screenshots/cart.png) | ![admin](screenshots/admin.png) |
