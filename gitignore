@@ -1,0 +1,22 @@
+# Test files
+test-conect.php
+
+# Environment variables
+.env
+.env.local
+
+# Docker volumes
+db_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# PHP logs
+*.log
+error_log
