@@ -10,8 +10,7 @@ A full-stack webshop built with **PHP** and **MySQL**, containerized with **Dock
 
 | Shop | Cart | Admin |
 |---|---|---|
-| ![shop](<img width="1861" height="590" alt="2026-03-09 164808" src="https://github.com/user-attachments/assets/ccf7b416-f968-4ad4-9c69-bcf0423eb24c" />
-) | ![cart](screenshots/cart.png) | ![admin](screenshots/admin.png) |
+| ![shop](screenshots/shop.png) | ![cart](screenshots/cart.png) | ![admin](screenshots/admin.png) |
 
 ---
 
